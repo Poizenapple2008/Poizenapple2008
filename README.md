@@ -2,7 +2,7 @@
 
 ## ✨ About Me
 - 💻 I'm studying IT and creating Telegram bots.
-- 🎨 I write a manhwa and develop my Telegram channel [Boss Khudozhki](https://t.me/boss_hudozhki).
+- 🎨 I write a manhwa and develop my Telegram channel [Boss Khudozhki](https://t.me/bossshudojki).
 - 🚀 I want to become a freelancer in the IT field.
 
 ## 🔧 My Skills
@@ -11,9 +11,8 @@
 - Telegram bot development
 
 ## 📌 My Projects
-- [Telegram bot Yumi](https://github.com/madina-dev/Yumi) — a smart cat that helps with tasks.
-- [My Portfolio Website](https://madina-dev.github.io) — working version.
+- [Telegram bot Yumi](@Yumi29) in telegram — a smart cat that helps with tasks.
+- [My Portfolio bot translate-@translate20254_bot in telegram]
 
 ## 📫 Contact Me
-- [Telegram](https://t.me/madina_dev)
-- [Email](mailto:madina@example.com)
+- [Telegram](@Tokiorevenger2000)
